@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadows-kissing-alone-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Shadows Kissing Alone Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-kissing-alone-now/) |
+| **Get License** | [Official Music Licensing for Shadows Kissing Alone Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadows-kissing-alone-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows kissing on the cabin wall
+> Catch my breath every time you fall
+> Into my arms when the lights burn low
+> Nowhere else that we need to go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
